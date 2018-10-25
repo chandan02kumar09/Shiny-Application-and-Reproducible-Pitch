@@ -9,4 +9,4 @@ URL to check application: [https://ishkurko.shinyapps.io/shiny-application/](htt
 
 ## Reproducible Pitch
 Folder [reproducible-pitch-presentation](reproducible-pitch-presentation) contais sources for Reproducible Pitch that describes Fake Contacts Generator application.
-URL to check presentation: [http://rpubs.com/ishkurko/fake-contacts-generator-presentation](http://rpubs.com/ishkurko/fake-contacts-generator-presentation)
+URL to check presentation: [http://rpubs.com/chandan02kumar09/fake-contacts-generator-presentation](http://rpubs.com/chandan02kumar09/fake-contacts-generator-presentation)
