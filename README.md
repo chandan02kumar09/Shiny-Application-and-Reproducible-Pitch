@@ -5,7 +5,7 @@ This project has two parts. First, this is a Shiny application, that also deploe
 ## Shiny Application
 Folder [shiny-application](shiny-application) contais sources for Shiny Application.
 Main idea of this application is to create Fake Contacts Generator that could help into some apllication testing.
-URL to check application: [https://ishkurko.shinyapps.io/shiny-application/](https://ishkurko.shinyapps.io/shiny-application/)
+URL to check application: [https://chandan02kumar09.shinyapps.io/shiny-application/](https://chandan02kumar09.shinyapps.io/shiny-application/)
 
 ## Reproducible Pitch
 Folder [reproducible-pitch-presentation](reproducible-pitch-presentation) contais sources for Reproducible Pitch that describes Fake Contacts Generator application.
